@@ -1,6 +1,6 @@
 # TIME-SERIES-FORECASTING-USING-GATED-RECURRENT-UNIT
 
-Overview:
+
 For time series forecasting of traffic flows using the given dataset, there are several established models to consider
 like Autoregressive Integrated Moving Average (ARIMA), Long Short-Term Memory (LSTM), Gated Recurrent Unit
 (GRU), Temporal Convolutional Networks (TCNs), Transformers and others.
